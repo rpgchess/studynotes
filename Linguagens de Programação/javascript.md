@@ -355,6 +355,7 @@ var quadrado = {
 quadrado.lados; // 4
 quadrado.area(5); // 25
 ```
+
 ## Arrays e Loops
 
 ### Array
