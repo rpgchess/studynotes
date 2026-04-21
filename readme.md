@@ -4,6 +4,8 @@
 
 <h1 align="center">Anotações de Estudos</h1>
 
+> **📢 Nota de Atribuição**: Este repositório é um fork/clone do projeto original de **[Leticia Caroline Leonardo (@levxyca)](https://github.com/levxyca/studynotes)**. Todo o crédito do conteúdo original pertence à autora.
+
 Esse repositório foi criado para organizar todas as minhas anotações de estudos, sinta-se a vontade para ler os resumos, ver resoluções de exercícios e aprender muito.
 
 ### Lógica de programação
